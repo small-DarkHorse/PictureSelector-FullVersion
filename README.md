@@ -35,7 +35,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.small-DarkHorse:PictureSelector-FullVersion:Tag'
+  implementation 'com.github.small-DarkHorse:PictureSelector-FullVersion:v2.0.0'
 }
 ```
 
@@ -45,7 +45,7 @@ Or Maven:
 <dependency>
   <groupId>io.github.small_DarkHorse</groupId>
   <artifactId>pictureselector</artifactId>
-  <version>v2.8.0</version>
+  <version>v2.0.0</version>
 </dependency>
 ```
 
